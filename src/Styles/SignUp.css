@@ -1,0 +1,112 @@
+.backgroundImage {
+  position: relative;
+  margin: 0px;
+  text-align: center;
+}
+
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 50px 40px;
+  font-size: large;
+}
+
+.signup_flex {
+  display: flex;
+  justify-content: space-between;
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: 0.5px;
+}
+
+.parag_flex {
+  display: flex;
+  justify-content: space-between;
+  font-size: smaller;
+  border: 1px solid #000;
+  padding: 5px;
+  border: 2px solid #e5e5e5;
+  border-radius: 50px;
+}
+
+.parag_flex p {
+  display: flex;
+}
+
+.parag_flex img {
+  height: 15px;
+}
+
+.or {
+ font-size: small;
+ text-align: center;
+ margin: 20px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 10px;
+}
+
+.email {
+  outline: none;
+  border: 2px solid #e5e5e5;
+  border-radius: 15px;
+  padding: 10px;
+}
+
+.input_wrapper {
+  margin: 10px 0px;
+  display: flex;
+  justify-content: space-between;
+  outline: none;
+  border: 2px solid #e5e5e5;
+  border-radius: 15px;
+  padding: 5px 10px;
+}
+
+.input {
+  color: #000;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.password {
+  outline: none;
+  border: 0;
+}
+
+.eye {
+  cursor: pointer;
+  padding: 0px 5px;
+  color: #e5e5e5;
+}
+
+.btn {
+  padding: 10px;
+  margin: auto;
+  border-radius: 15px;
+  border: 0;
+  background-color: #ff0090;
+  color: #fff;
+  font-size: medium;
+  cursor: pointer;
+}
+
+.already_have_account {
+  font-size: small;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.sign_in {
+  text-decoration: underline;
+  cursor: pointer;
+}

@@ -1,0 +1,58 @@
+.center_box {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: #E5E5E5;
+  padding: 20px;
+}
+
+.list_header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: -10rem;
+  margin-bottom: 5rem;
+  text-align: center;
+}
+
+.side_img {
+  margin-bottom: 0px;
+  height: 200px;
+}
+
+.list_wrapper {
+  display: flex;
+  flex-direction: row;
+}
+
+.list {
+  text-align: center;
+  margin: 10px;
+}
+
+.listImage {
+  height: 200px;
+}
+
+.card_img {
+  height: 20px;
+}
+
+.text_wrapper {
+  display: flex;
+  margin-top: -3.4rem;
+  background-color: gray;
+  border-radius: 10px;
+  padding: 15px 5px;
+}
+
+.country,
+.support {
+  text-align: start;
+  font-size: smaller;
+}
+
+.donate_btn {
+  margin: 5px;
+  padding: 5px;
+}

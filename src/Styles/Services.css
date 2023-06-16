@@ -1,0 +1,73 @@
+.services {
+  margin-top: -0.43rem;
+}
+
+.services_img {
+  margin-bottom: 0px;
+  height: 200px;
+}
+
+.services_links {
+  margin: 2rem;
+}
+
+.services_links img {
+  height: 20px;
+}
+
+.servicesBG_img {
+  margin-top: 7.2rem;
+  margin-right: -8rem;
+  height: 50px;
+}
+
+.services_wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.category {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: -10rem;
+  margin-bottom: 5rem;
+  text-align: center;
+}
+
+.donationImg {
+  padding: 20px;
+}
+
+.eventImg {
+  padding: 20px;
+}
+
+.img1 {
+  background-color: #f15a2b;
+}
+
+.services_bg {
+  background-color: #fff;
+  padding: 0px 10px;
+  border-radius: 10px;
+}
+
+.img2 {
+  background-color: #181e4b;
+}
+
+.img3 {
+  background-color: #f0bb1f;
+  height: 40px;
+}
+
+.img4 {
+  background-color: #df6951;
+  height: 40px;
+}
+
+.services_links {
+  text-align: center;
+}
